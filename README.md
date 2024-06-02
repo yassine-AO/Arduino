@@ -1,13 +1,13 @@
-# Arduino Bluetooth-Controlled Obstacle-Avoiding Car
+# Arduino Bluetooth-Controlled Obstacle-Avoiding Car ✨
 
-## Project Overview
+## Project Overview⭐
 
 This project demonstrates an Arduino-based car that can be controlled via Bluetooth using a mobile app. It features two main modes of operation:
 
 1. **Bluetooth Control Mode**: The car can be controlled using a mobile app.
 2. **Autonomous Mode**: The car automatically avoids obstacles and chooses the best path to navigate around them.
 
-## Hardware Components
+## Hardware Components⭐
 
 - Arduino Uno
 - HC-06 Bluetooth Module
@@ -17,12 +17,12 @@ This project demonstrates an Arduino-based car that can be controlled via Blueto
 - LEDs and Buzzer (for indicators)
 - Battery Pack
 
-## Software Components
+## Software Components⭐
 
 - Arduino IDE
 - Mobile app for Bluetooth control (e.g., "Arduino Bluetooth RC Car")
 
-## Features
+## Features⭐
 
 1. **Bluetooth Control Mode**:
     - **Forward/Backward Movement**: Controlled via mobile app commands.
@@ -33,7 +33,7 @@ This project demonstrates an Arduino-based car that can be controlled via Blueto
     - **Obstacle Avoidance**: The car detects obstacles and chooses the best path to avoid them.
     - **Path Selection**: The car scans left and right to determine the best path when an obstacle is detected.
 
-## Getting Started
+## Getting Started⭐
 
 ### Prerequisites
 
