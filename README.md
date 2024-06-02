@@ -46,3 +46,17 @@ This project demonstrates an Arduino-based car that can be controlled via Blueto
 2. **Ultrasonic Sensor**: Connect the Trig and Echo pins to the designated digital pins on the Arduino. Connect VCC to 5V and GND to GND.
 3. **Motor Driver Module**: Connect the motor driver inputs to the appropriate digital pins on the Arduino and connect the motors to the outputs of the motor driver. Connect the motor driver’s power inputs to the battery pack.
 4. **LEDs and Buzzer**: Connect LEDs and buzzer to the designated digital pins on the Arduino.
+
+## Usage⭐
+
+### Bluetooth Control Mode
+
+1. **Connect to the Car**: Pair your smartphone with the HC-06 Bluetooth module.
+2. **Open the Mobile App**: Use the "Arduino Bluetooth RC Car" app or a similar app.
+3. **Control the Car**: Use the app interface to send commands (e.g., 'F' for forward, 'B' for backward).
+
+### Autonomous Mode
+
+1. **Upload the Autonomous Mode Code**: Load the second code snippet into the Arduino IDE and upload it to the Arduino.
+2. **Power On**: Ensure the car has power and is placed in an area with obstacles.
+3. **Observe**: The car will start moving and avoiding obstacles automatically.
