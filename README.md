@@ -60,3 +60,7 @@ This project demonstrates an Arduino-based car that can be controlled via Blueto
 1. **Upload the Autonomous Mode Code**: Load the second code snippet into the Arduino IDE and upload it to the Arduino.
 2. **Power On**: Ensure the car has power and is placed in an area with obstacles.
 3. **Observe**: The car will start moving and avoiding obstacles automatically.
+
+## License🧾
+
+This project is licensed under the MIT License.
